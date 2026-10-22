@@ -1,0 +1,6 @@
+aiogram>=3.13
+reportlab>=4.0
+python-dotenv>=1.0
+# Qaysi AI ishlatsangiz, o'shaning kutubxonasini o'rnating (ikkalasi ham bo'lsa zarar yo'q):
+openai>=1.60
+anthropic>=0.40
